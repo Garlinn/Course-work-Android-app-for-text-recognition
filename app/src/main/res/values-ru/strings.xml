@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scanny</string>
+
+    <string name="btn_start">Начать</string>
+
+    <string name="title_home">Главная</string>
+    <string name="upload_hint">Загрузите изображение</string>
+    <string name="btn_scan">Сканировать</string>
+
+    <string name="title_history">История</string>
+
+    <string name="title_settings">Настройки</string>
+    <string name="setting_language">Язык</string>
+    <string name="setting_theme">Тема</string>
+    <string name="setting_about">О приложении</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="about_text">Версия 1.0\nРаспознавание текста на базе Tesseract OCR</string>
+
+    <string name="title_result">Результат</string>
+    <string name="btn_copy">Копировать</string>
+    <string name="btn_share">Поделиться</string>
+    <string name="no_text">Текст не распознан.</string>
+    <string name="copied">Скопировано в буфер обмена</string>
+
+    <string name="ocr_error_init">Не удалось инициализировать Tesseract. Проверь файлы в assets/tessdata/</string>
+    <string name="ocr_error_empty">Текст не найден на изображении</string>
+    <string name="ocr_error_prefix">Ошибка OCR: </string>
+    <string name="img_load_error">Не удалось загрузить изображение</string>
+
+    <string name="nav_home">Главная</string>
+    <string name="nav_history">История</string>
+    <string name="nav_settings">Настройки</string>
+
+    <string name="dialog_language_title">Язык приложения</string>
+    <string name="lang_english">English</string>
+    <string name="lang_russian">Русский</string>
+
+    <string name="dialog_theme_title">Тема</string>
+
+    <string name="dialog_about_title">Scanny</string>
+    <string name="dialog_ok">ОК</string>
+
+    <string name="setting_language_en">Язык: English</string>
+    <string name="setting_language_ru">Язык: Русский</string>
+    <string name="setting_theme_light">Тема: Светлая</string>
+    <string name="setting_theme_dark">Тема: Тёмная</string>
+
+    <string name="time_just_now">только что</string>
+    <string name="time_minutes_ago">%d мин назад</string>
+    <string name="time_hours_ago">%d ч назад</string>
+    <string name="time_yesterday">вчера</string>
+    <string name="time_days_ago">%d дн назад</string>
+    <string name="time_one_month_ago">1 месяц назад</string>
+    <string name="time_months_ago">%d мес назад</string>
+    <string name="history_empty">История пуста</string>
+    <string name="history_delete_hint">Проведите влево по записи чтобы удалить её</string>
+    <string name="history_info_title">История</string>
+</resources>
